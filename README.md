@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suliman Awad</h1>
 <h3 align="center">Software Engineer (Problem Solver, Django Developer, Familiar with Flutter)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suliman-99&label=Profile%20views&color=0e75b6&style=flat" alt="suliman-99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suliman-99" alt="suliman-99" /></a> </p>
-
 - 🌱 I’m currently Mastering **Problem Solving & Django**
 
 - 💬 Ask me about **Programming, Algorithms, Software Engineering**
