@@ -33,9 +33,8 @@
 
 
 <a style="display:flex;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suliman-99&show_icons=true&theme=react" />
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=suliman-99&layout=compact&theme=react" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suliman-99&theme=react&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=suliman-99&theme=react&layout=compact" />
 </a>
 
 <br/>
