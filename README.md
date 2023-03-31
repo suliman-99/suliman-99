@@ -1,24 +1,92 @@
-<h1 align="center">Hi 👋, I'm Suliman Awad</h1>
-<h3 align="center">Software Engineer (Problem Solver, Django Developer, Familiar with Flutter)</h3>
+## Hi 👋, I'm Suliman Awad
 
-- 🌱 I’m currently Mastering **Problem Solving & Django**
 
-- 💬 Ask me about **Programming, Algorithms, Software Engineering**
+### 👨🏻‍💻 &nbsp;About Me
 
-- 📫 How to reach me **sulimanawadstudy@gmail.com**
+- 🎓 &nbsp; Studying Software Engineering at Damascus university.
+- 💼 &nbsp; Working as a Backend developer.
+- 🔥 &nbsp; Passionate in Competitive programming (Algorithms)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suliman awad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suliman awad" height="30" width="40" /></a>
-<a href="https://fb.com/suliman awad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suliman awad" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 🛠 &nbsp;Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suliman-99&show_icons=true&locale=en&layout=compact" alt="suliman-99" /></p>
+- 🌐 &nbsp;
+  ![python][python-shield]
+  ![django][django-shield]
+  ![mysql][mysql-shield]
+  ![postgresql][postgresql-shield]
+  ![restfull-api][restfull-api-shield]
+  ![dart][dart-shield]
+  ![flutter][flutter-shield]
+  ![firebase][firebase-shield]
+  ![html5][html5-shield]
+  ![css3][css3-shield]
+  ![bootstrap][bootstrap-shield]
+- ⚙️ &nbsp;
+  ![git][git-shield]
+  ![github][github-shield]
+  ![gitlab][gitlab-shield]
+  ![markdown][markdown-shield]
+- 🖥 &nbsp;
+  ![postman][postman-shield]
+  ![staruml][staruml-shield]
+  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suliman-99&show_icons=true&locale=en" alt="suliman-99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suliman-99&" alt="suliman-99" /></p>
+<a style="display:flex;">
 
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=suliman-99&show_icons=true&locale=en&theme=react" />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=suliman-99&show_icons=true&locale=en&layout=compact&theme=react" alt="suliman-99" />
+
+</a>
+
+<br/>
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<div align="center">
+
+[![][gmail-shield]][gmail-url]   &nbsp;&nbsp;&nbsp;
+[![][linkedin-shield]][linkedin-account-url]   &nbsp;&nbsp;&nbsp;
+[![][facebook-shield]][facebook-account-url]
+
+</div>
+
+
+
+
+
+
+[python-shield]: https://img.shields.io/badge/Python-333333?logo=Python&logoColor=114499&style=flat-square
+[django-shield]: https://img.shields.io/badge/Django-333333?logo=Django&logoColor=116644&style=flat-square
+[mysql-shield]: https://img.shields.io/badge/MySQL-333333?logo=Mysql&style=flat-square
+[postgresql-shield]: https://img.shields.io/badge/PostgreSQL-333333?logo=PostgreSQL&style=flat-square
+[vimeo-shield]: https://img.shields.io/badge/Vimeo-333333?logo=Vimeo&style=flat-square
+[firebase-shield]: https://img.shields.io/badge/Firebase-333333?logo=Firebase&style=flat-square
+[flutter-shield]: https://img.shields.io/badge/Flutter-333333?logo=Flutter&logoColor=027DFD&style=flat-square
+[dart-shield]: https://img.shields.io/badge/Dart-333333?logo=Dart&logoColor=027DFD&style=flat-square
+[git-shield]: https://img.shields.io/badge/Git-333333?logo=Git&style=flat-square
+[github-shield]: https://img.shields.io/badge/Github-333333?logo=Github&style=flat-square
+[gitlab-shield]: https://img.shields.io/badge/Gitlab-333333?logo=Gitlab&style=flat-square
+[html5-shield]: https://img.shields.io/badge/HTML5-333333?logo=HTML5&style=flat-square
+[css3-shield]: https://img.shields.io/badge/CSS3-333333?logo=CSS3&logoColor=1572B6&style=flat-square
+[bootstrap-shield]: https://img.shields.io/badge/Bootstrap-333333?logo=Bootstrap&logoColor=563D7C&style=flat-square
+[markdown-shield]: https://img.shields.io/badge/Markdown-333333?logo=Markdown&style=flat-square
+[postman-shield]: https://img.shields.io/badge/Postman-333333?logo=Postman&style=flat-square
+
+[staruml-shield]: https://img.shields.io/badge/StarUML-333333?style=flat-square
+[restfull-api-shield]: https://img.shields.io/badge/RESTful%20API-333333?style=flat-square
+
+[gmail-shield]: https://img.shields.io/badge/Gmail-sulimanawadstudy@gmail.com-blue?logo=gmail&style=flat-square
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-Suliman%20Awad-blue?logo=linkedin&style=flat-square
+[linkedin-shield2]: https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&colorB=555&style=social
+[facebook-shield]: https://img.shields.io/badge/Facebook-Suliman%20Awad-blue?logo=Facebook&style=flat-square
+
+
+[gmail-url]: mailto:sulimanawadstudy@gmail.com
+[linkedin-account-url]: https://linkedin.com/in/suliman-awad-399a471b8
+[facebook-account-url]: https://www.facebook.com/suliman.awad.507/
