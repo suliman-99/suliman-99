@@ -20,7 +20,6 @@
   ![flutter][flutter-shield]
   ![firebase][firebase-shield]
   ![html5][html5-shield]
-  ![css3][css3-shield]
   ![bootstrap][bootstrap-shield]
 - ⚙️ &nbsp;
   ![git][git-shield]
@@ -35,11 +34,11 @@
 
 <a style="display:flex;">
 
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=suliman-99&show_icons=true&locale=en&theme=react" />
+<img height=180 src="https://github-readme-stats.vercel.app/api?username=suliman-99&show_icons=true&locale=en&theme=react" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=suliman-99&show_icons=true&locale=en&layout=compact&theme=react" alt="suliman-99" />
+<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=suliman-99&show_icons=true&locale=en&layout=compact&theme=react" alt="suliman-99" />
 
 </a>
 
