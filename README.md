@@ -77,7 +77,7 @@
 [restfull-api-shield]: https://img.shields.io/badge/RESTful%20API-333333?style=flat-square
 
 [gmail-shield]: https://img.shields.io/badge/Gmail-sulimanawadstudy@gmail.com-blue?logo=gmail&style=flat-square
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-Suliman%20Awad-blue?logo=linkedin&style=flat-square
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-Suliman%20Awad-blue?logo=linkedin&logoColor=4466cc&style=flat-square
 [linkedin-shield2]: https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&colorB=555&style=social
 [facebook-shield]: https://img.shields.io/badge/Facebook-Suliman%20Awad-blue?logo=Facebook&style=flat-square
 
