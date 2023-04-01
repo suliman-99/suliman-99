@@ -32,8 +32,9 @@
   
 
 
-<a style="display:flex;">
+<a href="https://github.com/suliman-99" style="display:flex;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suliman-99&theme=react&show_icons=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=suliman-99&theme=react&layout=compact" />
 </a>
 
