@@ -16,21 +16,25 @@
   [![django][django-shield]][django-url]
   [![mysql][mysql-shield]][mysql-url]
   [![postgresql][postgresql-shield]][postgresql-url]
-  [![restful-api][restful-api-shield]][restful-api-url]
   [![dart][dart-shield]][dart-url]
   [![flutter][flutter-shield]][flutter-url]
   [![firebase][firebase-shield]][firebase-url]
   [![html5][html5-shield]][html5-url]
+  [![css3][css3-shield]][css3-url]
   [![bootstrap][bootstrap-shield]][bootstrap-url]
 - ⚙️ &nbsp;
   [![git][git-shield]][git-url]
   [![github][github-shield]][github-url]
   [![gitlab][gitlab-shield]][gitlab-url]
-  [![markdown][markdown-shield]][markdown-url]
 - 🖥 &nbsp;
   [![postman][postman-shield]][postman-url]
   [![vscode][vscode-shield]][vscode-url]
   [![staruml][staruml-shield]][staruml-url]
+  [![markdown][markdown-shield]][markdown-url]
+- ⌨️ &nbsp;
+  [![restful-api][restful-api-shield]][restful-api-url]
+  [![jwt][jwt-shield]][jwt-url]
+  [![microservices][microservices-shield]][microservices-url]
   
 
 <a href="https://github.com/suliman-99" style="display:flex;">
@@ -92,6 +96,9 @@
 [c++-url]: https://www.w3schools.com/cpp
 [java-url]: https://www.java.com
 [aws-url]: https://aws.amazon.com
+[jwt-url]: https://jwt.io
+[oauth-url]: https://oauth.net
+[microservices-url]: https://aws.amazon.com/microservices
 
 
 
@@ -145,4 +152,13 @@
 [c++-shield]: https://img.shields.io/badge/C++-333333?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAYAAAAmlE46AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAJ2SURBVDhPbZPLTxNRFMa/OzO0lD6A8iiURzVQCgQkSFBTKU0DCxJjYqIuJMrGlTvdwsLEmJj4P2gCCxJCNBgXiInR4AIQFh15qEBIS6lpi1RbSjt02hmndwoE9JeczDnny5e558wd0tXVJeMMLFcAa0c/2IJC/PTOIC0k88oJ/xirmy/D0n0bTFGZ2kgnEF56jdDaLLLZrNpTODYaK+pwvvceuHI7Fc4ixYPwz47hd3Cd1sTZ45brr9yEsdEFMCxtVpo0aKzSg2UItiJJBKMC7RMlEr4FBOYmQYYej8ramk4qcCzBHacVrmYzrY/g/XG8/LSDVDoLIS1ia4MHI7FFeRkYvFpzbEoIGcSSGZp32Ey476nFSiCEiYWvWAnvg6OKQlWxFj2OUppPeyOYWgpDVqZ3t5hRbpDwcGwe30NxquuUYGim4LDq6fNPUsTUomqKJQWMTMxj4Pl7XLSZYa8w4IGnCWZdwYkxN1+OQ1FSQsQXfhWvPnyGfzdK+y6HBa3WEnhaq2ErM5wc1f9L3ZxFOXJqzwf+xwatu2uL0dfTjkfjixAyEt7wOyiWD0DuPpmUdVUORPaiGLlhR3ezFVlJxvTcOgQxg+tOB7QaDh+92+h7+hayplA13hoelfmwhE1/AHXlRrx7NoiWc5X0bUcEd+O4NjwO3rcLotGiwsiBXOodkLf1nQiJuV0BhRyLof52uC/YlLkZzH8L4sWMF/FUmupmLo2Gw2X1yhHCQCxpwhZnx37meF+nKFIuVQN80O4tKxuXTl9yTqNDzNSGTcmKTL7LEoJ6JgzLwSrElPodc/z3t2J0pYjo25AlHKpTa5AS4bxyBPAXjk7mixzkJ1wAAAAASUVORK5CYII=&style=flat-square
 
 [aws-shield]: https://img.shields.io/badge/AWS-333333?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAQCAYAAADnEwSWAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAARZSURBVDhPtZR7bJNVGMZ/bb+2a7d2ZTBctxXHdGSXzrILbA5iFMNkRljEeJtLFAMhoib8QRRjiIuXECGRyzIREghXwcgSLywmisDWYYAw2CaxUzZgbAPcygZd19u61vOdiYkaTQzxadKc896e97znOZ+mpKQkruj1LF5cTVl5ObZkG4FAgCNNRzh29FsKCl1UVlZSv2Uz0eg4Wq2Wl5evZGBggG+avkLFPWl2XnxpGR83NIhdXK7z8wvEMo6ny8PuXTvx+0fRqsGKYiA3L4+mpia2fbKN9o4O1n/wHsWlc7k1MkLNc88wM/t+NZSUqamsWL6M2toX0Ol00lYxbz4PikZDwQDr1r1DXm4uO3Zsp76+nqHBIQzGBBknyULBMVnc3XycjvNt7Nuzi/bOC1RUVHD9Wj+eny+KU5fJhAKnk2PHW7BYkjCZLdJWVFRM68kfMBj05MzKocXtlnW6PBf47NABhm8OyThJpiIxycIjjy5kYWUVpXPLZddWi5VYLIZbJJeVTZIVFxdz+tQpPJ4uQVKEXm9gzpwSmk+ckONvaXHz6qpXeO311RS6Jv13IMkcM7JobGykalEV01KnyYIZdrsMUNHqbiVfjEZtqLCwkLNtbZxrOyfIZpOVfR86cY+dHedlbP2Wj6ire5dMRyZbN29iz779ZM64V/ok2fM1NQx5b7L2zTUcPLCP7dsa6Ll8WVx1XAZd/KWLMdF1gXM2VquVwRvXaG9vx+VyUVpSKk5+kkgkLGMnJiY4fuw71r6xhiXV1cISp6amVvokmUb8jAaDGJ0ijbn5Th5wFmA2m+VeVaG7tZWVK1fQ090jC1+53MP06dNZtOgxMboWGaeq2p7uEIqdFE44HGbMP0Y4FJJ7Wf3w4c9ZsOBhPj14iNFRP1f7+ti8tYGlT1YLpeolWXNzM88+/RTrP9woE8PhEN2C2OUq5MyZ09KmNrth4wYUcd/j41FstmS8Xi/79++VfvnO1IXJnEi2kLf3pleOSTwRdIrChCBSob6vBHMSkVBQkqtQJa0SBAN+uVeh5qRnODCZTITEifr7eomJ0ar4g+z/gtVsICY69wfH0by/rCj+/UUFXzD2u/vukaDXsqp8mKpZPqboxaljIX68nYUuIyO9btPjA0xLhF5fIoHw3ZNqtRp6R63sPGtjb2caBpOVLMttdHpret3RSzaW5N7irXnd5KVp0CoJ3PDriUT/+4RVIme6lidyvLz90AD9PiMZliD9t41/vrP5M6OsrrhOVuIgMY0Rz3AKHTdMXBpJ5KpIGhQN+MIagqGIiI4zxWLCZgyTmRxlpi1A7tRRSux+rIqP84OpbDnt4KdftXxR28eqrx1/F4hWo2F+dpSleUOU24dQNGrhv0CjF39i3PFJld1BBDMnrqTQ6EmlrW/yS5hn1zFrapAvLxj+XY1Ws8JcRxhnqo+clBBplghJipB9LCg0bmZ03EjviI7uYTOdgxbO9imEx//pzuE3HFunRJsoOOsAAAAASUVORK5CYII=&style=flat-square
+
+
+[jwt-shield]: https://img.shields.io/badge/JWT-333333?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAMGSURBVDhPbZNbaFN3HMc/55xcmqRp06Q2TTzaxlrtZbNqNVhtFQTZQB8Ub1MfpOiDG2Mvgw73MPIw3fY0H9xExAuiD4IURBRB0TG7ibXF6Ia1dpaattZLo01zaXNykrOTQ1Yn9fPy//9/39/t/+f3F5qbmzU+gMvtodQ3H0kSGXzYW7DORiysBlJFJdblq4x9kaMY0VWBxV1pnAVB4CuhhlqpxDj/x0wC+7KV/PPrRR598yNWr79gfcdWUWZbr8CJ/nnMtb1LMpNAHRxASMSZsBXz+tuf9NZNBQVqrS6+7HOCftnr1RlGpyYLip5AB5PJhBKboP7Id1h140CgntSu/YaDpAd9PyIjxhWe+SV+dkQosthoca7HZrYj1bV9GlK+OImtQsb8cpjy5DgjdU2ky73U9XYhJSbZ2RUHh53OJR+xZnwH+yIHCfZtIFo1itAaOqVFg58Z1fJ4zBqJzBC2oR44dxw1k2GzM8CK0c+R+1cXvPTbuFQuLzyDVG1Kh4omRnA5naQdHhI5iVJVQvulA0VJo2kaA2qcBrWVMs3L40A3Vxad5cScwzxQ7zIzB3aLg/VztlDFHqLKNTqjx1ByilEtj3f/YcYWtFEWG0YN34CHN0mODSHsDrZrmxN7aXgeRJiQDOekJ8ahpnbG4q/I5nJYG5Zgb9vJqLzW0PPkqwYifyKWmT00PmoxglV3mr/quwiUn+b8bQfL5i+msWUdiQMd3Nj4CTWpO/h6LuDSu5AEvdDg35jC2Tt0L71OuLSLe9O/056Vsffoqs1MiTdAVMxS8vYNVMPNYBvNnftQLh3FK9egpib16fVWhLrF34gog6ywlvP1fQd635xvUgnLDjRRovj+HyQblzJe4kb5eDmeW1dJRV+SmUr9b5QtVg4OeCCt0ldr4aQpUlAgMz3N3B86cGYzvPBVIWzaXlD0QfP7/aH8JpPN8sZjpt5cSocvwqQyhVsOGB3kkjHePn2CLxalsi9M7uJZIzjPrO+cH+2c/vJ56latA7OV5PNnDD/tN2zvA/8CHOwPobcqenMAAAAASUVORK5CYII=&style=flat-square
+
+
+[oauth-shield]: https://img.shields.io/badge/OAuth-333333?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAJBSURBVDhPbVM7TyphFBwWVF4qjwABJQIhIlIYtbIhNhSE0oqKwG+goLwtnQUVNSUxoec/EBKl0ASEhERCCOENinAzR7z3Gu4km9095/vmmzM7q7q+vl7jP9Dr9dBoNFAUBcvlEuPxeNP5iS0Cg8GAs7MzLBYLvL+/Q61WY29vDzqdDk9PTxgOh5uVX1A2d6hUKhwdHSEUCuHh4QF+vx8fHx+YzWaiolwuIxAI4OTkRNZ+448CNnZ2duB0OvH8/IzX11f0+33ZzLrX64XP50Oz2YTJZEKj0fhLQIlXV1fI5XIyt9vtxsHBgcgnwXq9Fun1eh2fn59IpVJ4eXnBdDr9GuH8/BzFYlEYOQZP4MZ0Oo1MJiN1o9EoKolSqSQ+EQobq9UKb29v2N/fh8VikYbH40E8Hsfd3Z34wpNJbDab0ev1xBsqVzgf3SZYoFxKj0QiUiNisZjU2OPXICj/8PAQCh1lg+AzLyq6ubmRGnF7eysKCPYIjih3MnEMYjQaCYHVasXFxQXu7++RzWZF9uXlpayhfIImDwYDaObzuRRsNhu63S74brfbUalUUCgUpEcPHA6H9JiN4+NjOYhhk8/I2AaDQeTzeWkwMLu7uzI33wn6xFy0220kk0nJARWrXS7XL7JqtVqcnp6K0zzx8fFRFtBtktCwRCIhoaJnnU5HiIWAD5yH0pm2Wq2GaDSKyWSCcDgsavgzcSNNbLVaspnY+pmYBSogIRXQbRJQWbVaFQ/+xRbBN5gJkhE8/dvsnwB+A/jj+rcb3NQUAAAAAElFTkSuQmCC&style=flat-square
+
+
+[microservices-shield]: https://img.shields.io/badge/Microservices-333333?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAYAAAAmlE46AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAISSURBVDhPbVJLS3JRFF1XsVB8EIQvEHHSIMiBmQ5EnKigCM4dOHDgROo39COahj/AqaAgEQ5S8IGOVPCBKPhCxCgSLPVz7270GS64nHP2OnufvdbdwvX19Q5/oFar4fP5IJFIkM1m8fb2JjK/kIjrARKJBCaTCcbjMaLRqBg9xNHEbreL19dXTu50OmL0EEI4HN653W5sNhsUi0VYrVZ8fX3BYrFwrNfrQaFQoF6v4+bmBnK5HM/PzxDS6fRu/0Gj0eDy8hIPDw/YbrcwmUxYr9eYTqesNR6Po91u4/39HYFAAJJms4nT01PUajVukZKkUin2psFut0MQBI4NBgM0Gg0+t1otCHd3dzuXy4XRaIR+v8+OUlImk+ECfr8f1WqVNV9dXUGpVOLl5QXSvZ771WqFQqHARhgMBshkMm7z5OSEdVJSPp9nvfP5HJVK5dtVauV/EEFFSEa5XBaj3yDjCNJgMHhPplxcXLBWnU4Hj8fDJpydncHr9fKeOIfDwTxJEFKp1I6spoNer8fj4yO3GolE8Pn5iT3PaywW4zY/Pj5gs9kgIVMWiwVrpMoEuvj09IRcLsd7cpLulEolXukXCfvKu1AoxFNCv8RsNmO5XEKr1bI5w+EQ5+fnbIzT6YRKpeL5PTrkt7e3bA69RJqSyaTI/OLorFLL5Chp/2n/L46+aDQasXeb9dEgzGYzkfkB8A965RXhlJzqcAAAAABJRU5ErkJggg==&style=flat-square
 
